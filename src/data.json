@@ -1,0 +1,222 @@
+{
+  "deadlines": [
+    {
+      "label": "Bluebonnet top-3 choices due",
+      "date": "2026-09-18",
+      "when": "Fri Sept 18 · 9:00 AM"
+    },
+    {
+      "label": "Bluebonnet Horse Expo",
+      "date": "2026-10-03",
+      "when": "Sat Oct 3 · Williamson Co. Expo Center, Taylor TX"
+    }
+  ],
+  "checklist": [
+    {
+      "text": "Submit Bluebonnet adoption application",
+      "done": false
+    },
+    {
+      "text": "Pay Bluebonnet membership fee",
+      "done": false
+    },
+    {
+      "text": "Send photos of pasture, fencing, shelter and water",
+      "done": false
+    },
+    {
+      "text": "Get pre-approval call from the Adoption Coordinator",
+      "done": false
+    },
+    {
+      "text": "Email top 3 horses (first choice on only one) by Sept 18, 9 AM",
+      "done": false
+    },
+    {
+      "text": "Visit fosters near home before the Expo (Cleveland, Alvin, Dickinson, Huntsville)",
+      "done": false
+    },
+    {
+      "text": "Attend Expo Oct 3 — watch classes, test ride with trainer, adopt at half-price fee",
+      "done": false
+    }
+  ],
+  "horses": [
+    {
+      "name": "Noah",
+      "rescue": "Bluebonnet Equine (BEHS 1066)",
+      "desc": "Grade gelding · 8 yrs · 14.2 hh",
+      "where": "Foster in Cleveland, TX",
+      "drive": "~1 h 45 m",
+      "rider": "Intermediate · unrestricted riding",
+      "fee": "Posts in Sept · ½ price at Expo",
+      "avail": "Expo, Oct 3",
+      "blurb": "Broke to ride, basic groundwork. Competing in the Non-Pro Under Saddle division with trainer Piper Keenan; also competed in the 2021 Professional division. Seized in a 2019 case, returned to BEHS early 2025.",
+      "url": "https://bluebonnetequine.org/horse/behs-1066-noah/",
+      "status": "Top pick",
+      "notes": ""
+    },
+    {
+      "name": "Milkshake",
+      "rescue": "Bluebonnet Equine (BEHS 1563)",
+      "desc": "Paint gelding · 11 yrs · 15 hh · bay pinto",
+      "where": "Foster in Dickinson, TX",
+      "drive": "~2 h 15 m",
+      "rider": "Intermediate · unrestricted riding",
+      "fee": "Posts in Sept · ½ price at Expo",
+      "avail": "Expo, Oct 3",
+      "blurb": "Calm, sweet nature; stands tied, good for the farrier, loves attention. Arrived needing medical treatment, now sound. Professionally evaluated and trained; in the Training Challenge.",
+      "url": "https://bluebonnetequine.org/horse/behs-1563/",
+      "status": "Top pick",
+      "notes": ""
+    },
+    {
+      "name": "Canyon",
+      "rescue": "Bluebonnet Equine (BEHS 1568)",
+      "desc": "Quarter Horse gelding · 19 yrs · 16.1 hh",
+      "where": "Foster in Alvin, TX",
+      "drive": "~2 h 30 m",
+      "rider": "Intermediate · unrestricted riding",
+      "fee": "Posts in Sept · ½ price at Expo",
+      "avail": "Expo, Oct 3",
+      "blurb": "Broke to ride with basic groundwork. Surrendered to law enforcement; now in the Non-Pro Under Saddle division with trainer Melissa Landry. Biggest horse on the list.",
+      "url": "https://bluebonnetequine.org/horse/behs-1568/",
+      "status": "Top pick",
+      "notes": ""
+    },
+    {
+      "name": "Fortuna",
+      "rescue": "Bluebonnet Equine (BEHS 1539)",
+      "desc": "Grade mare · ~20 yrs · 15 hh · bay",
+      "where": "Foster in Huntsville, TX",
+      "drive": "~2 h 15 m",
+      "rider": "Intermediate · light to moderate riding",
+      "fee": "Posts in Sept · ½ price at Expo",
+      "avail": "Expo, Oct 3",
+      "blurb": "Gentle, willing nature after a neglect seizure. Started by her foster; in the Non-Pro Under Saddle division with Kimberly Shaw. Older, so light trail use.",
+      "url": "https://bluebonnetequine.org/horse/behs-1539-fortuna/",
+      "status": "Interested",
+      "notes": ""
+    },
+    {
+      "name": "Carmen",
+      "rescue": "Bluebonnet Equine (BEHS 990)",
+      "desc": "Quarter Horse mare · 14–16 yrs · 14.3 hh · sorrel",
+      "where": "Foster in Austin, TX",
+      "drive": "~4 h",
+      "rider": "Intermediate+ · steady hands and seat",
+      "fee": "Posts in Sept · ½ price at Expo",
+      "avail": "Expo, Oct 3",
+      "blurb": "Hates arena work, happiest on the trail. Goes English, Western or bareback. Pushy with other horses — best as a single horse or with a firm herd.",
+      "url": "https://bluebonnetequine.org/horse/behs-990-carmen/",
+      "status": "Interested",
+      "notes": ""
+    },
+    {
+      "name": "Arrowhead",
+      "rescue": "Bluebonnet Equine (BEHS 1154)",
+      "desc": "Quarter Horse gelding · 12 yrs · 14.3 hh",
+      "where": "Foster in Austin, TX",
+      "drive": "~4 h",
+      "rider": "Intermediate · confident handler",
+      "fee": "Posts in Sept · ½ price at Expo",
+      "avail": "Expo, Oct 3",
+      "blurb": "Prefers trail over arena; spooks at loud noises. No known health or lameness issues. Been through several Training Challenges; now with Sophie Fleming.",
+      "url": "https://bluebonnetequine.org/horse/behs-1154-arrowhead/",
+      "status": "Interested",
+      "notes": ""
+    },
+    {
+      "name": "Koozie",
+      "rescue": "Bluebonnet Equine (BEHS 1592)",
+      "desc": "Arabian-cross gelding · 14 yrs · 14 hh · sorrel",
+      "where": "Foster in Driftwood, TX",
+      "drive": "~4 h 30 m",
+      "rider": "Advanced · unrestricted riding",
+      "fee": "Posts in Sept · ½ price at Expo",
+      "avail": "Expo, Oct 3",
+      "blurb": "Owner-surrendered so he could find the right home. Professionally trained, in the Professional division with Jessica Dziekan.",
+      "url": "https://bluebonnetequine.org/horse/behs-1592/",
+      "status": "Interested",
+      "notes": ""
+    },
+    {
+      "name": "Aria",
+      "rescue": "Habitat for Horses",
+      "desc": "Arabian mare · 15 yrs · 14 hh",
+      "where": "Miracle Ranch, Alvin, TX",
+      "drive": "~2 h 30 m",
+      "rider": "Beginner-friendly · prefers lighter riders",
+      "fee": "Ask",
+      "avail": "Now · 3 ranch visits required",
+      "blurb": "Their only 'Ready to Ride' horse. W/T/C, rides trails on the property, loads and stands well. May need chiropractic; swishes tail when uncomfortable under saddle. Small for a grown man.",
+      "url": "https://habitatforhorses.org/adopt/aria",
+      "status": "Interested",
+      "notes": ""
+    },
+    {
+      "name": "Reynolds",
+      "rescue": "Habitat for Horses",
+      "desc": "Quarter Horse gelding · 13 yrs · 14.1 hh · bay",
+      "where": "Miracle Ranch, Alvin, TX",
+      "drive": "~2 h 30 m",
+      "rider": "Advanced or with a trainer",
+      "fee": "Ask",
+      "avail": "Now · 3 ranch visits required",
+      "blurb": "Green: ridden at walk and trot, moves nicely, goes in a snaffle. Good for the farrier, easy in the pasture. A project you could finish yourself.",
+      "url": "https://habitatforhorses.org/adopt/reynolds",
+      "status": "Interested",
+      "notes": ""
+    }
+  ],
+  "rescues": [
+    {
+      "name": "Bluebonnet Equine Humane Society",
+      "drive": "Expo ~4 h 15 m · fosters 1½–4 h",
+      "where": "Foster-based, statewide Texas + LA/OK/AR border counties. Expo Oct 3 in Taylor, TX.",
+      "process": "Application + membership + property photos → adoption coordinator call → email top 3 by Sept 18 → attend Expo, watch classes, test ride, adopt. Fees half price on Expo day. 30-day full refund / 1-year partial refund if it doesn't work out. No selling, leasing or breeding; home visits.",
+      "contact": "(888) 542-5163",
+      "url": "https://www.bluebonnetequine.org/adopt-a-horse/"
+    },
+    {
+      "name": "Habitat for Horses",
+      "drive": "~2 h 30 m",
+      "where": "Miracle Ranch, 6060 Habitat for Horses Ln, Alvin, TX. 300+ equines; mostly companion, started, or unstarted.",
+      "process": "Free online application → 3 ranch visits for a riding horse (1 for companion) → Coggins → pickup. Requires ½ acre per horse, 12×12 stall or 10.5×10.5 run-in, no barbed wire under 5 acres, yearly vaccines/dental/Coggins. Periodic post-adoption checks. No beginners on riding horses.",
+      "contact": "office@habitatforhorses.org",
+      "url": "https://habitatforhorses.org/adopt/"
+    },
+    {
+      "name": "Houston Humane Society — Equine",
+      "drive": "~2 h 15 m",
+      "where": "14700 Almeda Rd, Houston. Listings on My Right Horse; currently companion-only horses (~$250).",
+      "process": "Application → team review → meet & greet → facility check (visit or photos) → agreement. Horses come vaccinated, dewormed, dental, farrier, microchipped.",
+      "contact": "Princess Bednarski, Livestock Mgr · (713) 433-6421",
+      "url": "https://www.houstonhumane.org/adopt-a-pet/equine"
+    },
+    {
+      "name": "The Pegasus Project",
+      "drive": "~3 h 30 m",
+      "where": "Ben Wheeler, TX (East Texas). Professionally starts every horse that can be ridden.",
+      "process": "Call and ask what's coming off training — listings don't show training detail online.",
+      "contact": "(903) 995-1020",
+      "url": "https://www.mypegasusproject.org/"
+    },
+    {
+      "name": "New Vocations — Racehorse Adoption",
+      "drive": "~4 h",
+      "where": "82136 Hwy 437, Covington, LA. Off-track Thoroughbreds; e.g. Zack Talkin Smack, 4 yr, 16 hh, $2,500, flat-only.",
+      "process": "Standard application; horses are young and green — not trail-ready yet.",
+      "contact": "Morgan Vaughn · (504) 512-0124 · morgan@horseadoption.com",
+      "url": "https://www.myrighthorse.org/available-horses/gelding-thoroughbred-from-covington-zack-talkin-smack"
+    },
+    {
+      "name": "Also worth a call",
+      "drive": "3¾–5 h",
+      "where": "Safe Haven Equine Rescue, Gilmer TX · Humane Society of North Texas ranch, Joshua TX · Texas 4-H Homes for Horses, College Station (youth-trained horses, adopted after the state show).",
+      "process": "None publish training levels online; ask directly for anything broke to ride and trail-safe.",
+      "contact": "HSNT (817) 332-4768 x106",
+      "url": "https://www.safehavenequinerescue.com/"
+    }
+  ]
+}
